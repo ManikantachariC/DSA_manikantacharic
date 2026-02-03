@@ -13,13 +13,13 @@ It’s about a clear, structured, and realistic approach from **absolute beginne
 * Advanced concepts you should touch (and when)
 
 --- 
-**DSA Talks: Learn, Solve & Crack:** [🎥 **Watch Full Playlist on YouTube**](https://www.youtube.com/playlist?list=PLf-NrTSgEAJSqB5bA4IY1qga5epnFItEV)
+**DSA Talks: Learn, Solve & Crack:** [🎥 **Watch Full Playlist on YouTube**]()
 
 **150 Programming Sheet:** [🎥 **150 Sheet Link**](https://www.preparationstreet.com/150sheet)
 
-**150 Programming Video:** [🎥 **Video Link**](https://youtu.be/f-CTHI3xl74)
+**150 Programming Video:** [🎥 **Video Link**]()
 
-**Problem Solving:** [🎥 **Video Link**](https://youtu.be/aON0Ot5C890)
+**Problem Solving:** [🎥 **Video Link**]()
 
 --- 
 
